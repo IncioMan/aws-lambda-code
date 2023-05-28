@@ -1,0 +1,8 @@
+.zip
+.env
+.csv
+.txt
+deps/
+.vscode/
+__pycache__/
+.pytest_cache/
